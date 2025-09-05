@@ -36,4 +36,4 @@ Este projeto mostra como realizar operações fundamentais com **matrizes** util
 Praticar conceitos básicos de **álgebra linear computacional**, aplicando operações com matrizes de forma simples e eficiente em Python.
 
 ---
-✍️ Autor: *Seu Nome Aqui*
+✍️ Autor:Jonata Pablo Garcia
